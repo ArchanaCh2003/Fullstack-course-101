@@ -1,0 +1,36 @@
+th, td {
+    border: 1px solid black;
+    border-radius: 10px;
+  }
+body{
+  background-image: url("background2.jfif");
+    background-repeat: no-repeat;
+    backface-visibility: visible;
+    background-size: 100%;
+    background-attachment: fixed;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-right: 25%;
+    margin-left: 25%;
+    color:rgb(4, 4, 99);
+    
+}
+h1{
+    color:rgba(97, 49, 3, 0.699);
+    
+}
+h2{
+    color:rgb(2, 2, 172);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+h3{
+    color:rgb(67, 67, 238);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+button{
+    background-color: rgb(149, 248, 83);
+    color: rgb(1, 104, 10);
+}
+hr.new{
+    border: 1px solid rgb(177, 116, 3);
+}
